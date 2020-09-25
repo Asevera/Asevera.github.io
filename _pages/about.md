@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a data analyst and a writer based in London.
+I am a data analyst and writer based in London.
 
 You can read my professional CV [here](/cv/) and see the list of my creative
 publications [here](/creative-writing/).
