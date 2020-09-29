@@ -64,8 +64,8 @@ Work experience
 
 Skills
 ======
-* Python - can comfortably use for data analysis and scripting
-* SQL - can comfortably use for data analysis (mostly worked with PostgreSQL dialect)
+* Python - using it day to day for scripting, data analysis with Pandas and visualisation with Matplotlib and Seaborn 
+* SQL - using for data analysis (mostly worked with PostgreSQL dialect)
 * MS Excel / Google Sheet - advanced user
 
 <!--
