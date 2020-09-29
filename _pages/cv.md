@@ -9,36 +9,66 @@ redirect_from:
 
 {% include base_path %}
 
-I will post my professional CV here later.
-
-<!-- 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Immersive course in Data Science, General Assembly, London, 2019
+* Master's degree in Management, Lomonosov Moscow State University, 2014
+* Bachelor's degree in Economics, Lomonosov Moscow State University, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2019 - Present: Data Analyst, [Mercaux](https://mercaux.com/), London
+  * ...
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2018 - June 2019: Consultant (freelance)
+
+  Developed financial models and investor presentations for private businesses in the engineering, aerospace and FMCG industries.
   
+  Key projects:
+  * **Technology-driven Electrical Engineering Company**: assisted a fast-growing superconductor aviation
+    technology business in identifying key investment highlights, doing market research and building the financial model
+    and investor presentation for the key investment projects.
+  * **Cosmetic and Perfume Brand in the UK**: assisted the company in developing the business plan and made an investor
+    presentation for investor meetings in the US and East Asian markets.
+  * **Water Purification Equipment Distributor**: assisted the company in developing the business plan based on the analysis
+    of Moscow's construction and real estate market and made an investor presentation.
+
+* October 2015 - May 2018: Consultant, PwC Russia, Moscow
+
+  Analysed and interpreted collected data to provide useful insights and information for key decision-makers
+  in the overnment and various public sectors. Scrutinised international policy benchmarks at the city and country
+  levels, with emphasis on innovation, education and healthcare.
+  Proposed specific action plans geared toward problem resolution and improved outcome.
+
+  Key projects:
+    * GR Strategy for a Russian branch of the largest IT-company in the world
+    * Strategy Development for the largest bank in Russia.
+    * Technology Innovation in Russia
+    * Political Program Blueprint for a Russian Regional Governor
+    * International Rating System & Digital Conversion of Smart Cities in Moscow
+    * Tactical international development and communications plans for several top Russian universities
+    * Socio-economic Strategy for one of the Biggest Cities in Russia — St. Petersburg
+
+* January 2013 - October 2015: Russian Ministry of Economic Development, Moscow
+
+  Re-evaluated the strategy documents of several state-owned companies in the transport,
+  oil & gas and electricity sectors on behalf of the Federal Agency for State Property Management.
+  Examined company efficiency in different business areas, including Board of Directors
+  performance and cost structure.
+
+  Key achievements:
+    * Drafted critical documents for closed privatisation deals worth over $1.3B.
+    * Provided essential paperwork for uncompleted deals valued at $500M.
+    * Developed KPI systems for major Russian enterprises including some of the biggest names in oil & gas and sea port operations.
+    * Engineered strategic documents for countless businesses in the transport, energy, utilities and other sectors.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python - can comfortably use for data analysis and scripting
+* SQL - can comfortably use for data analysis (mostly worked with PostgreSQL dialect)
+* MS Excel / Google Sheet - advanced user
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
